@@ -1,0 +1,12 @@
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Core\bin\Debug\net10.0\PerseoMarketing.Core.deps.json
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Core\bin\Debug\net10.0\PerseoMarketing.Core.dll
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Core\bin\Debug\net10.0\PerseoMarketing.Core.pdb
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Core\obj\Debug\net10.0\PerseoMarketing.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Core\obj\Debug\net10.0\PerseoMarketing.Core.AssemblyInfoInputs.cache
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Core\obj\Debug\net10.0\PerseoMarketing.Core.AssemblyInfo.cs
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Core\obj\Debug\net10.0\PerseoMarketing.Core.csproj.CoreCompileInputs.cache
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Core\obj\Debug\net10.0\PerseoMarketing.Core.dll
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Core\obj\Debug\net10.0\refint\PerseoMarketing.Core.dll
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Core\obj\Debug\net10.0\PerseoMarketing.Core.pdb
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Core\obj\Debug\net10.0\ref\PerseoMarketing.Core.dll
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Core\obj\Debug\net10.0\PerseoMa.A17BB295.Up2Date

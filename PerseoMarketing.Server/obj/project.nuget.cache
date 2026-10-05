@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/6hle1zOw8Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eddyraz\\Proyectos\\STUDY\\CSharp\\PerseoMarketing\\PerseoMarketing.Server\\PerseoMarketing.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eddyraz\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\eddyraz\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Infrastructure\obj\Debug\net10.0\PerseoMarketingInfrastructure.csproj.AssemblyReference.cache
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Infrastructure\obj\Debug\net10.0\PerseoMarketingInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Infrastructure\obj\Debug\net10.0\PerseoMarketingInfrastructure.AssemblyInfoInputs.cache
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Infrastructure\obj\Debug\net10.0\PerseoMarketingInfrastructure.AssemblyInfo.cs
+C:\Users\eddyraz\Proyectos\STUDY\CSharp\PerseoMarketing\PerseoMarketing.Infrastructure\obj\Debug\net10.0\PerseoMarketingInfrastructure.csproj.CoreCompileInputs.cache
