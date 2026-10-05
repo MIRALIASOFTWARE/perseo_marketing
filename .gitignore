@@ -1,0 +1,25 @@
+## Build y Binarios de .NET
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.pdb
+
+## Archivos de Usuario y Configuración IDE
+.vs/
+.idea/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## Archivos temporales y de publicación
+[Tt]est[Rr]esult*/
+[Pp]ublish/
+*.azurePubxml
+
+## Paquetes NuGet restaurados
+*.nupkg
+**/packages/
+project.lock.json
+project.fragment.lock.json

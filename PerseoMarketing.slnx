@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PerseoMarketing.App/PerseoMarketing.App.csproj" Id="40a50797-d4ec-4470-a264-9c81219fd402" />
+  <Project Path="PerseoMarketing.Core/PerseoMarketing.Core.csproj" />
+  <Project Path="PerseoMarketing.Infrastructure/PerseoMarketing.Infrastructure.csproj" />
+  <Project Path="PerseoMarketing.Server/PerseoMarketing.Server.csproj" />
+</Solution>
